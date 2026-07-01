@@ -1,0 +1,6 @@
+[submodule "Perguntas-Aleatorias-Sobre-Geografia"]
+	path = Perguntas-Aleatorias-Sobre-Geografia
+	url = https://github.com/CGdiego/Perguntas-Aleatorias-Sobre-Geografia.git
+[submodule "Stickman-Arena"]
+	path = Stickman-Arena
+	url = https://github.com/CGdiego/Stickman-Arena.git
